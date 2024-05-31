@@ -1,10 +1,10 @@
 # ReactJSFovus
-# Fovus Coding Challenge
+## Fovus Coding Challenge
 
-## Use Case Description
+### Use Case Description
 As a user, you want to create an automated web application that allows you to add text input and upload files. This application processes the inputs, combines them, and stores the result using a unique ID-generated file. The management of this application is handled using AWS services such as S3, DynamoDB, Lambda, and EC2, with AWS CDK for infrastructure stack.
 
-## Steps to Implement
+### Steps to Implement
 
 ### Step 1: Create React JS Web Application
 Follow the [official React documentation](https://legacy.reactjs.org/docs/create-a-new-react-app.html) to set up a new React JS application.
