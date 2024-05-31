@@ -56,3 +56,8 @@ Upload the file, add the text input, and click on the "Upload" button. A new fil
 
 ### Results
 Results are documented in the Results.docx file.
+
+### References
+1, https://legacy.reactjs.org/docs/create-a-new-react-app.html
+2, https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
+3, https://www.youtube.com/watch?v=T-H4nJQyMig
